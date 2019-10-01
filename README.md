@@ -1,2 +1,5 @@
 # Rubiks-AI
 Computer Learns to solve a Rubik's Cube by itself.
+
+## Usage:
+* Open [RubixCube.pde](RubixCube.pde)
